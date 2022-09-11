@@ -1,3 +1,7 @@
-defining props
+components
 
-defining emits
+defineProps
+
+defineEmits
+
+
