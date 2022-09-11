@@ -1,5 +1,5 @@
-Nuxt3
-TypeScript
+# Nuxt3
+# TypeScript
 
-defining props
-defining emits
+# defining props
+# defining emits
